@@ -1,0 +1,19 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "TandemBP Assistant",
+  "Description": "An AI-powered assistant to supercharge Blueprint development for UE 5.5.4 and newer.",
+  "Category": "Blueprint",
+  "CreatedBy": "phoenixgoldz",
+  "CreatedByURL": "https://github.com/phoenixgoldz/TandemBp",
+  "Modules": [
+    {
+      "Name": "TandemBPAssistant",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "CanContainContent": true,
+  "EnabledByDefault": true
+}
