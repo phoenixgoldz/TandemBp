@@ -1,0 +1,19 @@
+{
+  "FileVersion": 3,
+  "Version": 2,
+  "VersionName": "2.0",
+  "FriendlyName": "TandemBP Assistant (Ultimate)",
+  "Description": "A full-featured Blueprint co-pilot that parses commands, auto-generates nodes, variables, and functions, scaffolds game types, and wires logic automatically.",
+  "Category": "Blueprint",
+  "Modules": [
+    {
+      "Name": "TandemBPAssistant",
+      "Type": "Editor",
+      "LoadingPhase": "Startup"
+    }
+  ],
+  "CanContainContent": true,
+  "EnabledByDefault": true,
+  "SupportedTargetPlatforms": [ "Win64", "Linux", "Mac" ],
+  "EngineVersion": "5.6.0"
+}
