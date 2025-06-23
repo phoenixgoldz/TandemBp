@@ -44,26 +44,11 @@
 
 ---
 
-## 📸 Screenshots
-
-![TandemBP Assistant Logo](tandemBPlogo.png)
-
----
-
 ## 🛠️ Supported Game Types
 
 * RPG, Shooter, Racing, Platformer, Puzzle, Fighting, Stealth, Survival
 * Strategy, Simulation, MOBA, Card Game, Rhythm, Horror, Visual Novel
 * Top-Down Action, Tactics, First-Person Exploration, Metroidvania, MMO
-
----
-
-## 💡 Future Plans
-
-* In-editor analytics dashboard
-* Multiplayer-aware blueprint templates
-* Marketplace-ready packaging
-* Community system presets
 
 ---
 
